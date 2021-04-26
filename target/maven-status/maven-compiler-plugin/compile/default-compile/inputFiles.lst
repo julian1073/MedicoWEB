@@ -1,0 +1,16 @@
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\EmptyModelExceptionFilter.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\NullPointerExceptionFilter.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\NotSupportedExceptionFilter.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\controller\MedicoController.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\IntegridadExceptionFilter.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\ModelNotFoundExceptionFilter.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\controller\ConsultaController.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\ConstraintViolationFilter.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\ExceptionFilter.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\org\netbeans\rest\application\config\ApplicationConfig.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\pojo\ErrorDto.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\NotAllowedExceptionFilter.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\JsonParsingExceptionFilter.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\BadRequestExceptionFilter.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\pojo\MedicoDto.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoWEB\src\main\java\co\edu\unicundi\medicoweb\filter\WebApplicationExceptionFilter.java
